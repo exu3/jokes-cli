@@ -1,0 +1,24 @@
+{
+  "name": "jokes-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jokes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eilla1/jokes-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eilla1/jokes-cli/issues"
+  },
+  "homepage": "https://github.com/eilla1/jokes-cli#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "yargs": "^16.2.0"
+  }
+}
